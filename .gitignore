@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+how-sum/__debug_bin
+fib/fib
+best-sum/__debug_bin
+can-sum/__debug_bin
